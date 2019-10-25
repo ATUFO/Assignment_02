@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool isExist(const array<int, 20> &, int); // 检查是否重复
+bool isExist(const array<int, 20> &, int); //  检查是否重复
 
 int main()
 {

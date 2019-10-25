@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool isExist(const vector<int> &vec, int x); // 检查是否重复
+bool isExist(const vector<int> &vec, int x); //  检查是否重复
 
 int main()
 {
